@@ -9,7 +9,8 @@ var config = {
 	
    devServer: {
       inline: true,
-      port: 7373
+      port: 7373,
+	  headers: { "Access-Control-Allow-Origin": "*" }
    },
 	
    module: {

@@ -27,6 +27,8 @@ class NavBar extends Component
         <li><Link to="/about">About</Link></li>
         <li><Link to="/contact">Contact</Link></li>
          <li><Link to="/incdec">IncreMent/Decrement</Link></li>
+         <li><Link to="/dgetApi">Get Api Method</Link></li>
+         <li><Link to="/dpostApi">Post Api Method</Link></li>
         </ul>
         </div>
         </div>
