@@ -1,7 +1,9 @@
 # reactCounter
 
 first run below command
-install npm
+
+$install npm
 
 secodn run
-npm start
+
+$npm start
